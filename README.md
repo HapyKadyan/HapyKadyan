@@ -1,7 +1,8 @@
 # Vishal Kadyan
 ### Data Scientist Trainee 
 
-![github banner](https://github.com/HapyKadyan/HapyKadyan/assets/137599632/0d5d8d43-72b7-4dfb-92a7-c55b3788ecdd)
+![github banner - Copy](https://github.com/HapyKadyan/HapyKadyan/assets/137599632/210d75f8-af7d-4ffb-9e69-40c680098a2e)
+
 
 
 ### Welcome to my Github Profile
@@ -43,7 +44,7 @@ Machine Learning:
 
 ## 🌐 Socials:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/MehakKhurana17)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vishal-kadyan-866b70246)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/HapyKadyan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vishal-kadyan-866b70246)  
 
 ## 📊 GitHub Stats
 
